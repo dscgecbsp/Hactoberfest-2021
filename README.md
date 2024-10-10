@@ -5,7 +5,7 @@
 
 
 ### What you need to do in this event?
-**You need to generate 4 valid pull request and want to contribute in opensource**
+**You need to generate 4 valid pull request and want to contribute in open-source**
 
 ### let's discuss how you can contribute in *hacktoberfest 2021* 🙌
 
